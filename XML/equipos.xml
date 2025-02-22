@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<equipos>
+    <equipo equipo="Valladolid">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>3</id>
+         <nombre>3ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="realmadrid">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="atletico">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="betis">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="sevilla">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="alaves">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="realsociedad">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="leganes">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="laspalmas">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="espanyol">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="osasuna">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="rayovallecano">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="athletic">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="valencia">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="girona">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="celta">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="getafe">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="mallorca">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+
+    <equipo equipo="villarreal">
+    <equipacion>
+         <id>1</id>
+         <nombre>1ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    <equipacion>
+         <id>2</id>
+         <nombre>2ª equipacion</nombre>
+         <precio>80.00</precio>
+    </equipacion>
+    </equipo>
+</equipos>
